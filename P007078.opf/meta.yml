@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG8584
   title: འཇམ་མགོན་ཆོས་ཀྱི་རྒྱལ་པོ་ཙོང་ཁ་པ་ཆེན་པོའི་རྣམ་ཐར།
-  volume: ''
+  volume:
+    6f18ce08896646578fd8ddfc32dfb96d:
+      image_group_id: I1KG8599
+      title: Volume 1 of 'jam mgon chos kyi rgyal po tsong kha pa chen po'i rnam thar/
+      volume_number: 1
+      total_pages: 528
   author: ''
+ebook_metadata:
+  title: འཇམ་མགོན་ཆོས་ཀྱི་རྒྱལ་པོ་ཙོང་ཁ་པ་ཆེན་པོའི་རྣམ་ཐར།
+  author: ''
+  sku: P007078
+  cover: cover.jpg
+  layers:
+  - pagination
